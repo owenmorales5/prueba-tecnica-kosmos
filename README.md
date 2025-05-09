@@ -161,15 +161,12 @@ Está diseñado para ser fácil de arrancar, modificar y desplegar. 🚀
 
 ---
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Autor: **Obeth Morales**
 
-<details>
-<summary>Obeth Morales</summary>
-
-<div style="border: 1px solid #e0e0e0; background-color: #fdf6e3; padding: 1rem; border-radius: 8px; margin-top: 1rem">
-
-✨ Aunque me faltaron algunas funcionalidades en la UI, todos los métodos y la lógica están implementados en el backend, conforme a lo solicitado en las instrucciones.  
-Solo no me dio tiempo para terminar la parte visual 😢.
-
-</div>
-</details>
+> 💬 **Nota personal**
+>
+> ---
+> ✨ Aunque me faltaron algunas funcionalidades en la UI, todos los métodos y la lógica están implementados en el backend, conforme a lo solicitado en las instrucciones.
+>
+> ❗ Solo no me dio tiempo para terminar la parte visual 😢.
+> ---
