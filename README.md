@@ -61,7 +61,7 @@ Está diseñado para ser fácil de arrancar, modificar y desplegar. 🚀
 
    > ⚠️ **Importante:**
    > - Asegúrate de tener PostgreSQL corriendo.
-   > - La ESTRUCTURA de la base de datos se creará automáticamente al iniciar la aplicación por primera vez, solamente debes haberla creado previamente.
+   > - La ESTRUCTURA de la base de datos se creará automáticamente al iniciar la aplicación por primera vez, solamente debes haber creado la base de datos previamente en el servidor.
    > - **Deberás insertar manualmente algunos datos iniciales** necesarios para el correcto funcionamiento del sistema:
    >
    > #### 🏥 Tabla `consultorio`
